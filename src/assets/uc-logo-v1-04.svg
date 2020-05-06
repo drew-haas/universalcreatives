@@ -1,0 +1,54 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 146">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 51px;
+        letter-spacing: -0.01em;
+      }
+
+      .cls-1, .cls-4 {
+        font-family: LeagueGothic-Regular, League Gothic;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-4 {
+        font-size: 18px;
+        letter-spacing: 0.2em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.2em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.18em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.2em;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>uc-logo-v1</title>
+  <text class="cls-1" transform="translate(15.5 82.43)">UNIVER<tspan class="cls-2" x="97.25" y="0">S</tspan><tspan class="cls-3" x="113.88" y="0">AL</tspan></text>
+  <text class="cls-4" transform="translate(47.09 101.43)">CR<tspan class="cls-5" x="19.93" y="0">E</tspan><tspan class="cls-6" x="29.09" y="0">A</tspan><tspan class="cls-7" x="39.02" y="0">TIVES</tspan></text>
+  <ellipse cx="90" cy="132.5" rx="73" ry="12.5"/>
+  <circle class="cls-8" cx="86" cy="134.83" r="4.67"/>
+  <circle class="cls-8" cx="52" cy="129.83" r="4.67"/>
+  <circle class="cls-8" cx="62" cy="136.83" r="4.67"/>
+  <circle class="cls-8" cx="124" cy="126.83" r="4.67"/>
+  <circle class="cls-8" cx="128" cy="138.83" r="4.67"/>
+  <circle class="cls-8" cx="97" cy="122.83" r="4.67"/>
+  <circle cx="17" cy="17.33" r="17.04"/>
+</svg>
