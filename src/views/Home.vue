@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
+  <div class="home dark-mode">
     <img alt="Vue logo" src="../assets/uc-logo-v1.png">
-    <!-- <p>I'm baby brooklyn paleo pork belly, chicharrones live-edge mumblecore vegan man bun. Williamsburg actually hoodie sriracha. Portland mumblecore affogato 8-bit, vaporware poutine helvetica brunch narwhal vinyl shoreditch kale chips. Gluten-free beard jianbing butcher meditation four dollar toast. Sartorial put a bird on it bushwick lomo celiac polaroid. Pop-up lyft kitsch banjo cronut tousled YOLO iPhone cliche.</p> -->
+    <p>I'm baby brooklyn paleo pork belly, chicharrones live-edge mumblecore vegan man bun. Williamsburg actually hoodie sriracha. Portland mumblecore affogato 8-bit, vaporware poutine helvetica brunch narwhal vinyl shoreditch kale chips. Gluten-free beard jianbing butcher meditation four dollar toast. Sartorial put a bird on it bushwick lomo celiac polaroid. Pop-up lyft kitsch banjo cronut tousled YOLO iPhone cliche.</p>
   </div>
 </template>
 
